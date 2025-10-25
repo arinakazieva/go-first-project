@@ -1,6 +1,7 @@
 package main
 
-import"fmt"
+import "fmt"
+
 // Edited on GitHub
 func main() {
 	fmt.Println("GitHub")
